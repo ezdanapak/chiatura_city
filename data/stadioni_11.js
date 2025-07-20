@@ -1,0 +1,1 @@
+var json_stadioni_11 = {"type":"FeatureCollection","name":"stadioni_11","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"fid":"1","id":null},"geometry":{"type":"Point","coordinates":[43.270657277380018,42.291626221665112]}}]}
